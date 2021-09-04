@@ -1,0 +1,12 @@
+Algoritmo sin_titulo
+	Escribir "Ingresar Presion "
+	Leer Presion
+	Escribir "Ingresar Volumen "
+	Leer Volumen
+	Escribir "Ingresar Temperatura "
+	Leer Temp
+	Masa = (Presion * Volumen )/ ( 0.37 * (Temp + 460 ) )
+	Escribir " La masa es: " Masa
+	
+FinAlgoritmo
+
